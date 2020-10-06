@@ -1,4 +1,4 @@
-### Python and Data Science 🙂 
+### Python, Data Science and Machine Learning 🙂 
 
 <!--
 **Manash-git/Manash-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
