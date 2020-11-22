@@ -1,4 +1,4 @@
-### Hey Man !! Wellcome to my Github 🙂 
+### Hi Man !! Wellcome to my Github 🙂 
 ### My Stacks are following 
 1. Python
 2. Django
