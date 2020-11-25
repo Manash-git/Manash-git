@@ -1,5 +1,5 @@
 ### Hi Man !! Wellcome to my Github 🙂 
-### My Stacks are following 
+### My skills are following 
 1. Python
 2. Django
 3. Data Science
