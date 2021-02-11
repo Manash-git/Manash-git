@@ -1,4 +1,4 @@
-### Hi Man !! Wellcome to my Github 🙂 
+### Hi !! Wellcome to my Github 🙂 
 ### My skills are following 
 1. Python
 2. Django
