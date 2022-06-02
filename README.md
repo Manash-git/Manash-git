@@ -1,9 +1,8 @@
 ### Hi !! Wellcome to my Github 🙂 
 ### My skills are following 
 1. Python
-2. Django
-3. Data Science
-4. Machine Learning 
+2. Data Science
+3. Machine Learning 
 
 <!--
 **Manash-git/Manash-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
